@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mohit-40
 - 👀 I’m interested in WEB DEVELOPMENT and COMPETITIVE PROGRAMMING
 - 🌱 I’m currently learning WEB DEVELOPMENT 
-- <!--💞️ I’m looking to collaborate on ...--->
+<!-- - 💞️ I’m looking to collaborate on ...--->
 - 📫 How to reach me 2019285@iiitdmj.ac.in
 
 <!---
