@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Mohit</h1>
 <ul>
 <li> 👀 I’m interested in Web Development and Competitive Programming </li>
-<li> 🌱 I’m currently Working on web development project </li>
+<li> 🌱 I’m currently Working on DSA </li>
 <li> 💬 Ask me about C++, JavaScript </li>
 <li> 📫 How to reach me 2019285@iiitdmj.ac.in </li>
 <li> 😄 Pronouns: He/His </li>
